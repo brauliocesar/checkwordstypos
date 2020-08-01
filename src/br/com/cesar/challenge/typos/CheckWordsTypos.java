@@ -15,6 +15,14 @@ package br.com.cesar.challenge.typos;
  */
 public class CheckWordsTypos {
 
+    /**
+     * Make sure that two strings are typing strings
+     *
+     * @param strOne
+     * @param strTwo
+     * @return
+     * @throws Exception
+     */
     public boolean checkTypos(final String strOne, final String strTwo) throws Exception {
         if (strOne == null || strOne.length() == 0) {
             throw new Exception("String has can not null or empty");
@@ -23,8 +31,10 @@ public class CheckWordsTypos {
             throw new Exception("String has can not null or empty");
         }
 
+        // Convert strings to char array
         char[] szStringOne = strOne.toCharArray();
         char[] szStringTwo = strTwo.toCharArray();
+        // Get Length of Strings
         int iLenStringOne = szStringOne.length;
         int iLenStringTwo = szStringTwo.length;
         int iCount = 0;
@@ -32,6 +42,7 @@ public class CheckWordsTypos {
 
         for (int iIndexOne = 0, iIndexTwo = 0;
                 iIndexOne < iLenStringOne && iIndexTwo < iLenStringTwo; ) {
+            // Check when two character are differents
             if (szStringOne[iIndexOne] != szStringTwo[iIndexTwo]) {
                 if (iLenStringOne > iLenStringTwo) {
                     iIndexOne++;
