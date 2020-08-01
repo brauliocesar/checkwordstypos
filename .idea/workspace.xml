@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51a11cd0-0d20-4ead-8013-7d318ef933b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/CheckWordsTypos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/CheckWordsTypos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,26 @@
       <recent name="D:\Users\netogil\Workspace\cesar\CheckWordsTypos" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cesar.challenge.typos.Main" />
+      <module name="CheckWordsTypos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cesar.challenge.typos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,6 +73,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596322139541">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596322139541" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596322139541">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596322139541" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596322139541">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596322139541" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596322139541">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596322139541" />
     <state x="-1045" y="129" key="MultipleFileMergeDialog" timestamp="1596320399200">
       <screen x="-1366" y="44" width="1366" height="728" />
     </state>
