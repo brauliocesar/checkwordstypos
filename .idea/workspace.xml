@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51a11cd0-0d20-4ead-8013-7d318ef933b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fW0htIkOe1uUbdJ65KAOqj66mj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\netogil\Workspace\cesar\CheckWordsTypos" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a11cd0-0d20-4ead-8013-7d318ef933b9" name="Default Changelist" comment="" />
+      <created>1596318663150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596318663150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1045" y="129" key="MultipleFileMergeDialog" timestamp="1596320399200">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state x="-1045" y="129" key="MultipleFileMergeDialog/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596320399200" />
+    <state x="-1091" y="101" key="Vcs.Push.Dialog.v2" timestamp="1596320415474">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state x="-1091" y="101" key="Vcs.Push.Dialog.v2/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596320415474" />
+    <state x="-924" y="156" key="git4idea.merge.GitMergeDialog" timestamp="1596320474759">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state x="-924" y="156" key="git4idea.merge.GitMergeDialog/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596320474759" />
+    <state x="-985" y="156" key="git4idea.merge.GitPullDialog" timestamp="1596320377194">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state x="-985" y="156" key="git4idea.merge.GitPullDialog/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596320377194" />
+  </component>
+</project>
