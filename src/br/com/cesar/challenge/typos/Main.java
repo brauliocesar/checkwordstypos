@@ -14,6 +14,17 @@ package br.com.cesar.challenge.typos;
 public class Main {
 
     public static void main(String[] args) {
+        String[] aStringsOne = {"pale", "pales", "pale", "pale", "fake", "brake", "prake"};
+        String[] aStringsTwo = {"ple", "pale", "bale", "bake", "lake", "brale", "brale"};
 
+        CheckWordsTypos mCheckWordsTypos = new CheckWordsTypos();
+        try {
+            for (int iIndex = 0; iIndex < aStringsOne.length; iIndex++) {
+                boolean bResult = mCheckWordsTypos.checkTypos(aStringsOne[iIndex], aStringsTwo[iIndex]);
+                System.out.println("-> " + aStringsOne[iIndex] + ", " + aStringsTwo[iIndex] + " -> " + bResult);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
