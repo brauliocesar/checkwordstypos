@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51a11cd0-0d20-4ead-8013-7d318ef933b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/CheckWordsTypos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/CheckWordsTypos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cesar/challenge/typos/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,5 +104,9 @@
       <screen x="-1366" y="44" width="1366" height="728" />
     </state>
     <state x="-985" y="156" key="git4idea.merge.GitPullDialog/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596320377194" />
+    <state x="-1020" y="93" width="672" height="678" key="search.everywhere.popup" timestamp="1596322315016">
+      <screen x="-1366" y="44" width="1366" height="728" />
+    </state>
+    <state x="-1020" y="93" width="672" height="678" key="search.everywhere.popup/-1366.44.1366.728/0.40.1366.728@-1366.44.1366.728" timestamp="1596322315016" />
   </component>
 </project>
