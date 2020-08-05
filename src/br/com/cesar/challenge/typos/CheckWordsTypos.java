@@ -32,8 +32,8 @@ public class CheckWordsTypos {
         }
 
         // Convert strings to char array
-        char[] szStringOne = strOne.toCharArray();
-        char[] szStringTwo = strTwo.toCharArray();
+        char[] szStringOne = strOne.toLowerCase().toCharArray();
+        char[] szStringTwo = strTwo.toLowerCase().toCharArray();
         // Get Length of Strings
         int iLenStringOne = szStringOne.length;
         int iLenStringTwo = szStringTwo.length;
